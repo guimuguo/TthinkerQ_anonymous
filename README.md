@@ -20,7 +20,7 @@ To track query progress so that users are timely notified when a query completes
 
 <p align="center">
   <!-- <img src="imgs/Lineage_Tracking.png"/> -->
-  <img align="center" src="https://github.com/guimuguo/TthinkerQ/blob/main/img/Lineage_Tracking.png" />
+  <img align="center" src="img/Lineage_Tracking.png" />
 </p>
 
 ### We use four kinds of subgraph queries to demonstrate the programming friendliness of T-thinkerQ as well as its excellent CPU-scalability.
