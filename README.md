@@ -31,21 +31,21 @@ To track query progress so that users are timely notified when a query completes
 
 <p align="center">
   <!-- <img src="imgs/qc.png"/> -->
-  <img align="center" src="https://github.com/guimuguo/TthinkerQ/blob/main/img/qc.png" width="350" height="250"/>
+  <img align="center" src="img/qc.png" width="350" height="250"/>
 </p>
   
 - **The `app_scs` folder:** This query finds a subgraph with the largest min-degree among all connected subgraph *g* that contain the query vertex *v<sub>q<sub>* and have *l*≤|*v<sub>q<sub>*|≤h.
 
 <p align="center">
   <!-- <img src="imgs/scs.png"/> -->
-  <img align="center" src="https://github.com/guimuguo/TthinkerQ/blob/main/img/scs.png" width="450" height="300"/>
+  <img align="center" src="img/scs.png" width="450" height="300"/>
 </p>
   
 - **The `app_cycle` and `app_hpcycle` folder:** Given two distinct vertices *s* and *t* in *G*, and a hop constraint *k*, this query outputs all paths from *s* to *t* with length at most *k*.
 
 <p align="center">
   <!-- <img src="imgs/hpcycle.png"/> -->
-  <img align="center" src="https://github.com/guimuguo/TthinkerQ/blob/main/img/hpcycle.png" width="350" height="200"/>
+  <img align="center" src="img/hpcycle.png" width="350" height="200"/>
 </p>
   
   
@@ -53,7 +53,7 @@ To track query progress so that users are timely notified when a query completes
 
 <p align="center">
   <!-- <img src="imgs/gm.png"/> -->
-  <img align="center" src="https://github.com/guimuguo/TthinkerQ/blob/main/img/gm.png" width="450" height="200"/>
+  <img align="center" src="img/gm.png" width="450" height="200"/>
 </p>
  
 ## Compilation
