@@ -103,11 +103,3 @@ In each folder, `app_kernel_ol`, `maximal_check`, `app_scs`, `app_cycle`, `app_h
 
 * C++11
 * [OpenMP](https://www.openmp.org/)
-
-<!-- ## Contributors
-* **Guimu Guo (guimuguo@uab.edu)**
-* **Da Yan (yanda@uab.edu)**
-* **Lyuheng Yuan (lyuan@uab.edu)**
-* **Saugat Adhikari (saugat@uab.edu)**
-
-The authors are affiliated with the Department of Computer Science, University of Alabama at Birmingham -->
